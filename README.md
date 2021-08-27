@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ani
-- 👀 I’m interested in Graphics and Game Development
+- 👀 I’m interested in Computer Graphics and Mathematical Finance 
 - 🌱 I’m currently learning advanced C for Operating Systems
 - 📫 Contact me at anirudh.janardhan@gmail.com
 
